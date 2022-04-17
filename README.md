@@ -117,6 +117,6 @@
       
       **- Upgrading Celestrak to convert the old punch-card data formats to [modern serialization standards](https://celestrak.com/NORAD/documentation/gp-data-formats.php)**
       
-      **- A testbed IPNS-addressed IPFS decentralized data store [Celestrak.eth](https://ipfs.io/ipns/celestrak.eth/)**
+      **- A testbed IPNS-addressed IPFS decentralized data store at [Celestrak.eth](https://ipfs.io/ipns/celestrak.eth/)**
 
       **There is a tremendous amount of work that needs to be done to create, deploy, and maintain the tools required for this project to become a reality.  Contributions, whether monetary or time/effort, are greatly appreciated.**
