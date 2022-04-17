@@ -1,4 +1,4 @@
-# Cult.DAO Proposal - Celestrak
+# Cult.DAO Proposal - Celestrak.eth
 
 1.  What is the name of your project?
 
