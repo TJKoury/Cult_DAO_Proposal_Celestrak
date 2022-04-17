@@ -81,7 +81,7 @@
 
 20. How would funding from Cult benefit you or your cause?
 
-    **Currently the non-profit has no funding and is looking for a sponsor.  Taking funding from governments, VCs, corporations would come with strings attached.**
+    **Taking funding from governments, VCs, corporations would come with strings attached.**
 
 21. Can you list the main contact from your project?
 
