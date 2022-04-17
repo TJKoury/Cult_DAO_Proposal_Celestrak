@@ -23,11 +23,11 @@
 
 6. What is your website?
 
-    **[Celestrak.com](https://celestrak.com), (certificate for Celestrak.org will be done soon).**
+    **[Celestrak.eth](https://ipfs.io/ipns/celestrak.eth).**
 
 7. Do you have a whitepaper and if so, where can we find a copy?
   
-    **See [here](https://en.wikipedia.org/wiki/Two-line_element_set), [here](https://celestrak.com/brief-history.php), and [here](https://celestrak.com/NORAD/documentation/gp-data-formats.php).  KEYSPACE whitepaper in progress [here](https://github.com/DigitalArsenal/keyspace/wiki/Space-Data-Network-(KEYSPACE)-Whitepaper).**
+    **KEYSPACE whitepaper in progress [here](https://github.com/DigitalArsenal/keyspace/wiki/Space-Data-Network-(KEYSPACE)-Whitepaper).**
   
 8. Do you have a pitchdeck and if so where can we find a copy?
 
