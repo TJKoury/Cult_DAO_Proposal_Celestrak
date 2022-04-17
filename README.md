@@ -2,7 +2,7 @@
 
 1.  What is the name of your project?
 
-    **Celestrak**
+    **Celestrak.eth**
 
 2. Have you read the manifesto?
     
@@ -19,7 +19,7 @@
 
 5. Can you give a brief outline of your project?
     
-    **Maintain current public space data portal at Celestrak.  Create an open-source public, decentralized, censorship-free space data framework. Enable anyone, anywhere, anytime to publish and consume space data.**
+    **Create an open-source public, decentralized, censorship-free space data framework. Enable anyone, anywhere, anytime to publish and consume space data.**
 
 6. What is your website?
 
